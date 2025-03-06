@@ -1,5 +1,5 @@
 PKG_NAME := pypi-cssselect2
-URL = https://files.pythonhosted.org/packages/e7/fc/326cb6f988905998f09bb54a3f5d98d4462ba119363c0dfad29750d48c09/cssselect2-0.7.0.tar.gz
+URL = https://files.pythonhosted.org/packages/9f/86/fd7f58fc498b3166f3a7e8e0cddb6e620fe1da35b02248b1bd59e95dbaaa/cssselect2-0.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
